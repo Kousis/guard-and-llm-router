@@ -3,7 +3,7 @@
 1. **Current Phase:** Gather Information About the Topic 
 2. Create the First Implementation and Set Up Evaluation Process
 3. Iterate Until Reaching Project Goals
-4. Deploy to Production and Test the Solution at Scale
+4. Prepare, Deploy and Test the Solution at Scale
 
 
 ## Papers
